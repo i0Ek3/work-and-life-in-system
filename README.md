@@ -1,5 +1,7 @@
 # **程序员在体制内的工作与生活是怎样的？**
 
+
+
 本文在结构上做了一些调整，将正文放在了 [Context.md](Context.md) 中，而其中的第九章节单独放在了 [Story.md](Story.md) 中讲述。而这里仅留下目录作为导航，大家可以根据需求查看对应的章节。
 
 ## 前言
@@ -88,4 +90,4 @@
 
 ## 最后，无论你在哪里，都希望你能开心。
 
-![](https://github.com/i0Ek3/apichost/blob/main/work-and-life-in-system/sun.jpg)
+![](https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/WOA/sun.7avl6lrg3rwg.jpg)
