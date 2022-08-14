@@ -119,7 +119,7 @@
 
 这里分享下我和 Cory 的对话，如果没有他，我想我也不会想明白的。感谢他的支持，尤其是在他骨折了一条腿的情况下，还依然乐观的给我建议，帮我分析一些问题，以及做自己想要做的事情。感谢，也希望他的音乐和视频可以被更多人知道，大家可以去哔哩哔哩关注[他](https://b23.tv/9o6lQUu)。
 
-![](https://github.com/i0Ek3/work-and-life-in-system/tree/master/images/dialog.jpg)
+![](https://git.poker/i0Ek3/apichost/blob/main/workinsystem/dialog.122tyjtqkcps.jpg?raw=true)
 
 ## 结语
 
